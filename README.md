@@ -16,3 +16,9 @@ static void myFunction(int i)
   }
 }
 ```
+
+I have some other work to do:
+
+- [ ] Learn to program everything
+- [ ] Grok Microsoft
+- [x] ~~Finish employee training~~
