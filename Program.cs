@@ -1,4 +1,3 @@
-```c#
 using Sytem;
 using System.Collections.Generic;
 using System.Text;
@@ -13,4 +12,3 @@ namespace KillerApp
     }
   }
 }
-```
